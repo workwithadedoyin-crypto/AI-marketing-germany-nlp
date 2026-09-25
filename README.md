@@ -1,10 +1,4 @@
-# AI-marketing-germany-nlp
-NLP sentiment analysis of real German customer reviews on AI-driven marketing/engagement features — MSc dissertation technical contribution (Gisma University of Applied Sciences).  If GitHub's field feels too short, this trimmed version also works:  Sentiment analysis of real German customer reviews on AI-driven marketing features.
 AI Sentiment Germany — NLP Analysis (Primary Technical Contribution)
-
-Part of the MSc dissertation "The Impact of Artificial Intelligence on Customer Engagement in Digital Marketing Strategy" (Gisma University of Applied Sciences, Department of Computer Science).
-
-Why this exists
 
 An earlier component of this dissertation (ai-marketing-germany-pipeline/) consolidated and visualised already-published statistics on AI adoption and consumer trust in Germany. Supervisor feedback was explicit: that pipeline only proposes and describes — it produces no implementation-generated evidence and does not, on its own, satisfy the technical-contribution requirement of a Computer Science master's thesis.
 
