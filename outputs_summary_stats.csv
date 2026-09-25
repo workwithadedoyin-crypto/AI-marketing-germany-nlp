@@ -1,0 +1,2 @@
+total_reviews_collected_raw,total_reviews_after_cleaning,reviews_mentioning_ai,pct_mentioning_ai,chi2_statistic,chi2_p_value,apps_included,scrape_timestamp_utc
+2000,1647,34,2.0643594414086217,8.544631636684796,0.013949441346780925,"['OTTO', 'Zalando', 'N26', 'DHL Paket', 'DB Navigator', 'Lufthansa']",2026-09-25T09:15:33.291431+00:00
